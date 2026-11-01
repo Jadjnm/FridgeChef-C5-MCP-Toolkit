@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+/data/
+/eval-results/
+/.local/
+*.log
+*.bak
+*.tmp
